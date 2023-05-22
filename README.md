@@ -1,1 +1,1 @@
-# CV_2023_UNIGE
+# Violin players pose estimation
