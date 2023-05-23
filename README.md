@@ -1,6 +1,6 @@
 # Violin players pose estimation
 
-## PaperS analysis
+## Paper analysis
 
 ### Tanya's notes 
 Most important info for https://link.springer.com/article/10.1007/s12559-020-09768-8:
@@ -22,13 +22,17 @@ For every movement consider not just angle,
 but also the change in the position in comparison with the previous point.
 For every time series data, the features can be extracted: mean, var, max, min (see table 2 in https://link.springer.com/article/10.1007/s12559-020-09768-8)
 Following movements can be analyzed:
-* head inclination
-* left wrist roundness
-* left wrist movement
-* right wrist movement
-* left elbow movement
-* right elbow movement
-* sitting straight
-* analyze if the face muscles are moving (if the person is smiling -> noise is not good)
+Angles: 
+* head inclination (12-10-11)
+* left wrist roundness (15-19-17)
+* right elbow movement (11-13-15) MOST IMPORTANT
+* right shoulder (23-11-13)
+* right hips should not move (person should sit straight) (24-23-25)
+* fingers' positions (13-15-17)
+* the same for the left side as for right
+* analyze if the face muscles are moving (8-10-9 and 7-9-10) (if the person is smiling -> noise is not good)
+
+Relative position:
+* 
 
 TODO: define some formulas to track the described movements
