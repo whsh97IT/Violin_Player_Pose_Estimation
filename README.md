@@ -23,7 +23,7 @@ but also the change in the position in comparison with the previous point.
 For every time series data, the features can be extracted: mean, var, max, min (see table 2 in https://link.springer.com/article/10.1007/s12559-020-09768-8)
 Following movements can be analyzed:
 Angles: 
-* head inclination (12-10-11)
+* head inclination (12-0-11)
 * left wrist roundness (15-19-17)
 * right elbow movement (11-13-15) MOST IMPORTANT
 * right shoulder (23-11-13)
