@@ -2,7 +2,8 @@ import os
 
 PATH_TO_DATASET = '../dataset/'
 def get_video_paths(path=PATH_TO_DATASET):
-    paths_to_folders = [x[0] for x in os.walk(path)].remove(path)
+    paths_to_folders = [x[0] for x in os.walk(path)]
+    paths_to_folders.remove(path)
     result ={"S":[], "I":[], "C":[]}
     for folder in paths_to_folders:
         last_let = folder[-1]
