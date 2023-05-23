@@ -25,14 +25,21 @@ Following movements can be analyzed:
 Angles: 
 * head inclination (12-0-11)
 * left wrist roundness (15-19-17)
-* right elbow movement (11-13-15) MOST IMPORTANT
+* right elbow movement (11-13-15) **MOST IMPORTANT**
 * right shoulder (23-11-13)
-* player should sit straight: the two hips need to be on a straight line
+* player should sit straight: the two hips need to be on a straight line (24-23-25)
 * fingers' positions (13-15-17)
 * the same for the left side as for right
 * analyze if the face muscles are moving (8-10-9 and 7-9-10) (if the person is smiling -> noise is not good)
 
 Relative position:
+* right elbow **MOST IMPORTANT**
+* right wrist
+* hips
+* knees
+* shoulders
+* position of nose (to define if the head is holded stanble)
+* relative distance from noise/month/eyes - create metric to define if the person laughing
 * 
 
 TODO: define some formulas to track the described movements
