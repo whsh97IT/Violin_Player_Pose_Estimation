@@ -27,7 +27,7 @@ Angles:
 * left wrist roundness (15-19-17)
 * right elbow movement (11-13-15) MOST IMPORTANT
 * right shoulder (23-11-13)
-* right hips should not move (person should sit straight) (24-23-25)
+* player should sit straight: the two hips need to be on a straight line
 * fingers' positions (13-15-17)
 * the same for the left side as for right
 * analyze if the face muscles are moving (8-10-9 and 7-9-10) (if the person is smiling -> noise is not good)
