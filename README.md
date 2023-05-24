@@ -1,5 +1,10 @@
 # Violin players pose estimation
 
+## Links to Colab Notebooks
+### Experiment: Distinguish between I, S, C
+Vlad: https://colab.research.google.com/drive/1HW-VPXOxJYWOASW_ykiMYC_BkHefwB55?usp=sharing
+Tanya: https://colab.research.google.com/drive/1XfzwqvEy8uZXX_l2Us3reG9Acvu3UkKc?usp=sharing
+
 ## Paper analysis
 
 ### Tanya's notes 
