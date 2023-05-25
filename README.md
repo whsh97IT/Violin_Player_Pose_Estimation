@@ -45,3 +45,6 @@ Relative position:
 * shoulders
 * position of nose (to define if the head is holded stanble)
 * relative distance from noise/month/eyes - create metric to define if the person laughing
+
+# Interesting papers:
+https://towardsdatascience.com/feature-engineering-on-time-series-data-transforming-signal-data-of-a-smartphone-accelerometer-for-72cbe34b8a60
