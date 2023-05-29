@@ -48,3 +48,4 @@ Relative position:
 
 # Interesting papers:
 https://towardsdatascience.com/feature-engineering-on-time-series-data-transforming-signal-data-of-a-smartphone-accelerometer-for-72cbe34b8a60
+Book Extraction and Recognition of Violin Gestures on Music Performance: https://repositori.upf.edu/bitstream/handle/10230/42561/Nou_2019.pdf?sequence=1&isAllowed=y
