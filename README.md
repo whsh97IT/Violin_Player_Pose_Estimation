@@ -57,4 +57,4 @@ ideas to improve tsd classification algorithm:
 * Consider wrist as a tutor advised (namely beginning of tsd, it is different if the player 
 learns how to play and know how to play)
 * Write the report
-* Create diagram to explain how the current tsd classification algorithm works
+* Create diagram to explain how the current tsd classification algorithm works (Vlad)
