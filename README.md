@@ -49,3 +49,12 @@ Relative position:
 # Interesting papers:
 https://towardsdatascience.com/feature-engineering-on-time-series-data-transforming-signal-data-of-a-smartphone-accelerometer-for-72cbe34b8a60
 Book Extraction and Recognition of Violin Gestures on Music Performance: https://repositori.upf.edu/bitstream/handle/10230/42561/Nou_2019.pdf?sequence=1&isAllowed=y
+
+# TODOS:
+ideas to improve tsd classification algorithm:
+* discuss people detection (mypipe works wrong if there are people in background) (Vlad)
+* try to detect pattern in time series https://stackoverflow.com/questions/45658082/detect-a-given-pattern-in-time-series (Tanya)
+* Consider wrist as a tutor advised (namely beginning of tsd, it is different if the player 
+learns how to play and know how to play)
+* Write the report
+* Create diagram to explain how the current tsd classification algorithm works
